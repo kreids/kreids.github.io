@@ -425,6 +425,7 @@ article>header {
     text-rendering: optimizeLegibility
 }
 article>header h1 {
+    color: #eeffcc;
     margin-top: 20px;
     font-weight: bold;
     font-size: 40px;
