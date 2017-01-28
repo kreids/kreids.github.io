@@ -2,6 +2,7 @@ element{
     --mint: #eeffcc;
     --mint-dark: #88cc00;
     --pastelBlue:#e6ffff;
+    --pastelBlueDarkest: #001a1a;
     --burn:#ffeb99;
     --burn-drk: #ffd11a;
 }
@@ -299,7 +300,7 @@ html, body {
     font-size: 14px;
     color:  #e6ffff;
     text-align: center;
-    background-color: #000000;
+    background-color: #001a1a;
     -webkit-font-smoothing: antialiased
 }
 body::-webkit-selection, body::-moz-selection, body::-o-selection, body::selection {
@@ -346,7 +347,7 @@ hr {
     margin: 0;
     font-family: "Helvetica Neue", "Helvetica-Neue", helvetica, sans-serif;
     background-color: #ffeb99;
-    color:  #446600;
+    color:   #001a1a;
     font-weight: bold;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
@@ -357,7 +358,7 @@ hr {
 }
 .btn:hover {
     background-color: #ffd11a;
-    color: #446600
+    color:  #001a1a
 }
 body>header {
     border-top-width: 4px;
