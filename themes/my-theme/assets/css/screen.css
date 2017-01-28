@@ -1,6 +1,12 @@
+element{
+    --mint: #eeffcc;
+    --pastelBlue:#e6ffff;
+
+}
+
 /* Link colour */
 a {
-    color:  #eeffcc;
+    color:  var(mint);
 }
 
 /* Border at the top of the page */
@@ -289,7 +295,7 @@ html, body {
     max-height: 100%;
     margin: 0;
     font-size: 14px;
-    color:  #e6ffff;
+    color:  var(pastelBlue);
     text-align: center;
     background-color: #000000;
     -webkit-font-smoothing: antialiased
