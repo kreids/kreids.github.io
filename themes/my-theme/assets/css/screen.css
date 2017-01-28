@@ -423,7 +423,7 @@ article #home_link:hover {
     background-color: #ededee
 }
 article time, article time a {
-    color: #a4adb6;
+    color: var(pastelBlue);
     text-rendering: optimizeLegibility
 }
 article>header {
@@ -454,7 +454,7 @@ article>header .meta {
 article>header .count {
     font-size: 14px;
     margin-left: 30px;
-    color: #a4adb6
+    color: var(pastelBlue)
 }
 article .text {
     font-family: "Helvetica Neue", "Helvetica-Neue", helvetica, sans-serif;
