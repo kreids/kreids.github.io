@@ -291,7 +291,7 @@ html, body {
     font-size: 14px;
     color: #21272d;
     text-align: center;
-    background-color: #fff;
+    background-color: #000000;
     -webkit-font-smoothing: antialiased
 }
 body::-webkit-selection, body::-moz-selection, body::-o-selection, body::selection {
