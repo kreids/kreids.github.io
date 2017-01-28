@@ -295,7 +295,7 @@ html, body {
     max-height: 100%;
     margin: 0;
     font-size: 14px;
-    color:  var(--pastelBlue);
+    color:  #eeffcc;
     text-align: center;
     background-color: #000000;
     -webkit-font-smoothing: antialiased
@@ -404,7 +404,7 @@ article {
 }
 article #home_link {
     font-family: 'Pictos Custom';
-    color: #909396;
+    color: #eeffcc;
     margin-right: 10px;
     margin-top: -5px;
     font-size: 17px;
