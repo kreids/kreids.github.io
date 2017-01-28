@@ -6,7 +6,7 @@ element{
 
 /* Link colour */
 a {
-    color:  var(mint);
+    color:  var(--mint);
 }
 
 /* Border at the top of the page */
@@ -295,7 +295,7 @@ html, body {
     max-height: 100%;
     margin: 0;
     font-size: 14px;
-    color:  var(pastelBlue);
+    color:  var(--pastelBlue);
     text-align: center;
     background-color: #000000;
     -webkit-font-smoothing: antialiased
@@ -423,7 +423,7 @@ article #home_link:hover {
     background-color: #ededee
 }
 article time, article time a {
-    color: var(pastelBlue);
+    color: var(--pastelBlue);
     text-rendering: optimizeLegibility
 }
 article>header {
@@ -454,7 +454,7 @@ article>header .meta {
 article>header .count {
     font-size: 14px;
     margin-left: 30px;
-    color: var(pastelBlue)
+    color: var(--pastelBlue)
 }
 article .text {
     font-family: "Helvetica Neue", "Helvetica-Neue", helvetica, sans-serif;
