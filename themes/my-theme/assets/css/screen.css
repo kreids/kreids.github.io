@@ -6,7 +6,7 @@ element{
 
 /* Link colour */
 a {
-    color:  var(--mint);
+    color:  #eeffcc;
 }
 
 /* Border at the top of the page */
@@ -423,7 +423,7 @@ article #home_link:hover {
     background-color: #ededee
 }
 article time, article time a {
-    color: var(--pastelBlue);
+    color: #eeffcc;
     text-rendering: optimizeLegibility
 }
 article>header {
@@ -454,7 +454,7 @@ article>header .meta {
 article>header .count {
     font-size: 14px;
     margin-left: 30px;
-    color: var(--pastelBlue)
+    color: #eeffcc
 }
 article .text {
     font-family: "Helvetica Neue", "Helvetica-Neue", helvetica, sans-serif;
